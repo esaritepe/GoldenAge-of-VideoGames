@@ -4,6 +4,10 @@ Project Goal
 ------------
 * A SQL project that aims to determine when was the golden age of video games based on user and critic scores, and sales data.
 
+File Structure
+---------------
+* Included in the repository is a .ipynb file that contains the SQL code that queries the video games dataset based on critic scores, user scores, and total sales. 
+
 Results
 -------
 <p align="center">
